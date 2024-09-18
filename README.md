@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a second year student of Computer Science<br>👯 I’m looking to collaborate on Front-end Projects<br>🌱 I’m currently learning Version Control System and JavaScript DOM<br>
+🔭 I’m currently a second year student of Computer Science<br>👯 I’m looking to collaborate on Front-end Projects<br>🌱 I’m currently learning Object Oriented Programming and Data Structure <br>
 
 
 ## 🌐 Socials:
